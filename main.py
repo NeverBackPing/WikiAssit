@@ -1,7 +1,7 @@
 # Import Wikipedia-API
 import wikipediaapi
 
-user_agent = "MyUserAgent/1.0 (https://github.com/NeverBackPing/)"
+user_agent = "MyUserAgent/1.0 (https://MySite.com)"
 
 
 # Créer un objet wiki en spécifiant la langue
